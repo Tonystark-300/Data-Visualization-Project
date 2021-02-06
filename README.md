@@ -5,4 +5,5 @@ Tool used : Ms Excel, Tableau prep builder.
 Various visualization techniques have been used like
  - charts 
  - pivot table 
+ - data models
  
