@@ -34,3 +34,14 @@ Removal of NULL values-
 There are 756 rows and 18 columns in matches.csv file. 756 rows imply that there were 756 IPL matches held between 2008- 2019.
 ![process1](https://user-images.githubusercontent.com/61225994/107217787-b1dfa600-6a34-11eb-876a-5cab2189741a.png)
 
+Data indicates the presence of 637 Null values in Umpire3 column. It’s of no use of knowing about the count of null values. This column has a significant number of Null values in compare to others so, remove umpire3 column.
+Removal of those columns which are not needed-
+Umpire1 and Umpire2 are not needed in my data analysis. So, remove those columns.
+Keep fields: [id, Season, city, team1, team2, toss_winner, player_of_match, venue]
+Cleaning of deliveries.csv file:
+Removal of NULL values-
+There are 79K rows and 21 columns in deliveries.csv file. Out of which 1,70,244(95% rows) in player_dismissed column, 1,70,244(95% rows) in dismissial_kind and 1,72,630(96% rows) in fielder columns are NULL. So, remove columns  player_dismissed, dismissial_kind and fielder.
+
+![process2](https://user-images.githubusercontent.com/61225994/107218022-0daa2f00-6a35-11eb-93b5-a7d45ccf5f1c.png)
+
+Keep fields: [ match_id, batting_team, bowling_team, batsman, batsman_runs, total_runs]
