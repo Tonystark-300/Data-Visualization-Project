@@ -27,3 +27,9 @@ Objectives of the analysis
 6.	Find country to which batsman with highest score belongs.
 7.	Country wise analysis of left-hand and right-hand batsman.
 
+
+ETL Process
+Cleaning of matches.csv file:
+Removal of NULL values-
+There are 756 rows and 18 columns in matches.csv file. 756 rows imply that there were 756 IPL matches held between 2008- 2019.
+
