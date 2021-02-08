@@ -27,6 +27,9 @@ Objectives of the analysis
 6.	Find country to which batsman with highest score belongs.
 7.	Country wise analysis of left-hand and right-hand batsman.
 
+Dashboard :
+![dashboard](https://user-images.githubusercontent.com/61225994/107218346-81e4d280-6a35-11eb-9b17-69fa7d1a6e84.png)
+
 
 ETL Process
 Cleaning of matches.csv file:
