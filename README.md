@@ -31,7 +31,7 @@ The dataset on which I worked, consists of data about IPL matches played from th
 ![dashboard](https://user-images.githubusercontent.com/61225994/107218346-81e4d280-6a35-11eb-9b17-69fa7d1a6e84.png)
 
 
-**ETL Process**
+#**ETL Process**<h1>
 Cleaning of matches.csv file:
 Removal of NULL values-
 There are 756 rows and 18 columns in matches.csv file. 756 rows imply that there were 756 IPL matches held between 2008- 2019.
@@ -52,5 +52,5 @@ Keep fields: [ match_id, batting_team, bowling_team, batsman, batsman_runs, tota
 
 **bold Word file for Reference and complete process.**
 [end term report.docx](https://github.com/Tonystark-300/Data-Visualization-Project/files/5943680/end.term.report.docx)
-# This is an <h1> tag
+
 
