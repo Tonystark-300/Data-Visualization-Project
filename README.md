@@ -52,7 +52,7 @@ There are 79K rows and 21 columns in deliveries.csv file. Out of which 1,70,244(
 Keep fields: [ match_id, batting_team, bowling_team, batsman, batsman_runs, total_runs]
 
 
-**bold Word file for Reference and complete process.**
-[end term report.docx](https://github.com/Tonystark-300/Data-Visualization-Project/files/5943680/end.term.report.docx)
+** Word file for Reference and complete process.**
+[wordfile.docx](https://github.com/Tonystark-300/Data-Visualization-Project/files/5943680/end.term.report.docx)
 
 
