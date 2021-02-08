@@ -10,14 +10,14 @@ Various visualization techniques have been used like
  - pivot table 
  - data models, etc.
 
-<h1>**Introduction:**</h1>
+<h1>Introduction:</h1>
 
 Data analysis is important in business to understand problems facing an organization, and to explore data in meaningful ways. Data in itself is merely facts and figures. To know how to analyze data is an important skill to learn nowadays. It answers many questions that tends to get raise in future. So, it is a big help to know the answers already and for that data should be analyzed thoroughly. This project is meant to be a good practice of doing data analysis.
 
 The dataset on which I worked, consists of data about IPL matches played from the year 2008 to 2019. IPL is a professional Twenty-Twenty cricket league founded by the Board of Control for Cricket in India (BCCI) in 2008. The league has 8 teams representing 8 different Indian cities or states. It enjoys tremendous popularity and the brand value of the IPL in 2019 was estimated to be ₹475 billion (US$6.7 billion).                                               
 
 
-<h1>**Objectives of the analysis**</h1>
+<h1>Objectives of the analysis</h1>
 
 1.	To show number of matches won by every team season wise.
 2.	To find top 10 batsman.
@@ -27,14 +27,16 @@ The dataset on which I worked, consists of data about IPL matches played from th
 6.	Find country to which batsman with highest score belongs.
 7.	Country wise analysis of left-hand and right-hand batsman.
 
-<h1>**Dashboard :**</h1>
+<h1>Dashboard :</h1>
+
 ![dashboard](https://user-images.githubusercontent.com/61225994/107218346-81e4d280-6a35-11eb-9b17-69fa7d1a6e84.png)
 
 
-<h1>**ETL Process**</h1>
+<h1>ETL Process</h1>
 Cleaning of matches.csv file:
 Removal of NULL values-
 There are 756 rows and 18 columns in matches.csv file. 756 rows imply that there were 756 IPL matches held between 2008- 2019.
+
 ![process1](https://user-images.githubusercontent.com/61225994/107217787-b1dfa600-6a34-11eb-876a-5cab2189741a.png)
 
 Data indicates the presence of 637 Null values in Umpire3 column. It’s of no use of knowing about the count of null values. This column has a significant number of Null values in compare to others so, remove umpire3 column.
