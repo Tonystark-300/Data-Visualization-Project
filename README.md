@@ -44,6 +44,9 @@ Removal of those columns which are not needed-
 Umpire1 and Umpire2 are not needed in my data analysis. So, remove those columns.
 Keep fields: [id, Season, city, team1, team2, toss_winner, player_of_match, venue]
 Cleaning of deliveries.csv file:
+
+![Login](https://user-images.githubusercontent.com/61225994/107666342-6b987a00-6cb4-11eb-84d4-ef4a1644c09c.png)
+
 Removal of NULL values-
 There are 79K rows and 21 columns in deliveries.csv file. Out of which 1,70,244(95% rows) in player_dismissed column, 1,70,244(95% rows) in dismissial_kind and 1,72,630(96% rows) in fielder columns are NULL. So, remove columns  player_dismissed, dismissial_kind and fielder.
 
