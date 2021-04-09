@@ -1,7 +1,7 @@
 # Data-Visualization-Project
 semester  V project - Data Management ans Analysis
 The following project is about analysis of IPL dataset from 2008 to 2019 year. 
-Dataset used in the following Visualization has been taken from kaggle.com .Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
+Dataset used in the following Visualization has been taken from kaggle.com .Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists  and enter competitions to solve data science challenges.
 link of dataset: https://www.kaggle.com/ramjidoolla/ipl-data-set
 
 Tool used : Ms Excel, Tableau prep builder. 
